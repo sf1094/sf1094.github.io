@@ -62,6 +62,10 @@ var rules = {
     "What about ~y?",
     "You mentioned ~y",
   ],
+  "~*x humanity ~*y": [
+     "Are you human?",
+     "How do you feel about ~y?",
+  ],
   "~*x I want ~*y": [
     "What would it mean if you got ~y?",
     "Why do you want ~y?",
